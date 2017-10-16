@@ -1,0 +1,8 @@
+bin\Debug\seleccion de fuentes.exe
+bin\Debug\seleccion de fuentes.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\seleccion_de_fuentes.Form1.resources
+obj\Debug\seleccion_de_fuentes.Properties.Resources.resources
+obj\Debug\seleccion de fuentes.csproj.GenerateResource.Cache
+obj\Debug\seleccion de fuentes.exe
+obj\Debug\seleccion de fuentes.pdb
